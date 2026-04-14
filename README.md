@@ -1,10 +1,10 @@
 # CS5033_P2
 #### All of these codes belong in seperate folders, I am going to separate it here. 
 #### IDE_SKELETON
-#### Crosscutting ---> crosscutting.py
-#### Domain ---> entities.py 
-#### Infrastructure ---> adapters.py
-#### Presentation ---> presentation.py
-#### Service ---> services.py
+Crosscutting ---> crosscutting.py
+Domain ---> entities.py 
+Infrastructure ---> adapters.py
+Presentation ---> presentation.py
+Service ---> services.py
 main.py ---> by itself, no folder 
 
