@@ -6,5 +6,5 @@
 #### Infrastructure ---> adapters.py
 #### Presentation ---> presentation.py
 #### Service ---> services.py
-#### main.py ---> by itself, no folder 
+main.py ---> by itself, no folder 
 
